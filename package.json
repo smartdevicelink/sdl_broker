@@ -1,0 +1,17 @@
+{
+  "name": "sdl_broker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.0",
+    "websocket": "^1.0.23"
+  }
+}
